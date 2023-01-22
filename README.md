@@ -11,7 +11,7 @@ Essa lista de tarefas tem um CRUD, ou seja, permite obter os registros, criar, s
 
 Esta aplicação é do tipo Web API.
 
-A sua classe principal, a classe de tarefa,é a seguinte:
+A classe principal, a classe de tarefa, é a seguinte:
 
 ![Diagrama da classe Tarefa](diagrama.png)
 
